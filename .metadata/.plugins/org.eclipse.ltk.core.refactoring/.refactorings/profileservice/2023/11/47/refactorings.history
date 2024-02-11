@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;APIGatewayURIException.java&apos; to &apos;skillservice/src/main/java/com.fse4.skill.exception&apos;&#x0D;&#x0A;- Original project: &apos;profileservice&apos;&#x0D;&#x0A;- Destination element: &apos;skillservice/src/main/java/com.fse4.skill.exception&apos;&#x0D;&#x0A;- Original element: &apos;com.fse4.profile.exception.APIGatewayURIException.java&apos;" description="Copy compilation unit" destination="=skillservice/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.fse4.skill.exception" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.fse4.profile.exception{APIGatewayURIException.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1700728980623" units="1" version="1.0"/>
+</session>
